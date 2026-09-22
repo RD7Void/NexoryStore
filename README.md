@@ -83,7 +83,7 @@ O app **não** pede armazenamento externo (usa o diretório de documents do app)
 ## Licença
 
 MIT  
-© RD7Void · GameFF: Garena International I Pte. Ltd. (marca do jogo é de seus donos).
+© RD7Void.
 
 ---
 
