@@ -12,7 +12,7 @@
 [📋 Releases](https://github.com/RD7Void/NexoryStore/releases) ·
 [issues](https://github.com/RD7Void/NexoryStore/issues)
 
-<img src="assets/icon/app_icon.png" width="120" alt="Nexory Store icon" />
+<img src="https://github.com/RD7Void/NexoryStore/blob/main/Nexory_Store_icon.png?raw=true" width="120" alt="Nexory Store icon" />
 
 </div>
 
